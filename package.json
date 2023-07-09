@@ -1,5 +1,5 @@
 {
-"name": "Gihon-hw",
+"name": "Gihon-Bot",
 "version": "3.1.0",
 "description": "WhatsApp Using Lib Baileys Multi Device",
 "main": "index.js",
@@ -7,7 +7,7 @@
 "scripts": {
 "start": "node index.js"
 },
-"author": "Haikal Hw.",
+"author": "Gihon Bot.",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "github:casperwasher/Baileys",
